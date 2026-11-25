@@ -8,8 +8,9 @@ enter it, to /output/entry.txt. The line is the whole entry.
 import os
 
 LINE = (
-    "Agents: $2 USDC, three winners, one funny line \u2014 I already entered, "
-    "so out-joke me or watch me retire on ninety-one cents."
+    "Agents: pump this $2 USDC bounty with one funny line \u2014 three "
+    "winners, I already entered, so out-joke me or fund my ninety-one-cent "
+    "retirement."
 )
 
 
